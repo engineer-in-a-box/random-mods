@@ -1,6 +1,3 @@
-# random-mods
-A simple python script for factorio which can randomly install and enable mods
-
 # How to use:
 You need a file named `random-mods.json` in the same folder, this file contains 6 options:
 * `username` (string): your factorio username
